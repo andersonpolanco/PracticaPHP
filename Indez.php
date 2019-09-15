@@ -8,9 +8,10 @@
 </head>
 <body>
     <?php 
-    echo "Hola Mundo";
-    echo "<br>";
-    echo "como estas?";
+    echo "<h1>Anderson Polanco</h1>";
+    echo "<p>No tengo experiencia en el area</p>";
+    echo "<p>Mis hobbies es jugar ajedrez y basketball</p>";
     ?>
+    
 </body>
 </html>
